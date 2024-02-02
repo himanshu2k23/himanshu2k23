@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
+<h1 align="center">Hello world!! , I'm Himanshu Dubey</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 📫 How to reach me **himanshudubey2k23@gmail.com**
+- 📫 Reach me **himanshudubey2k23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
