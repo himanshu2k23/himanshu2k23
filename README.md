@@ -1,6 +1,5 @@
-<h1 align="center">Hello world!! , I'm Himanshu Dubey</h1>
-<h3 align="center">A passionate developer from India</h3>
-
+<h1 align="center">👋 Hi, I'm Himanshu Dubey</h1>
+<h3 align="center">🔧 Consultant Developer | Full-Stack Engineer | Tech Enthusiast</h3>
 - 📫 Reach me **himanshudubey2k23@gmail.com**
 
 <p align="left">
