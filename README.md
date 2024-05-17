@@ -1,7 +1,14 @@
 <h1 align="center">👋 Hi, I'm Himanshu Dubey</h1>
 <h3 align="center">🔧 Consultant Developer | Full-Stack Engineer | Tech Enthusiast</h3>
-- 📫 Reach me **himanshudubey2k23@gmail.com**
+### Connect with me:
 
+<p align="left">
+
+<a href="mailto:himanshudubey2k23@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-himanshudubey2k23-ea4335?style=for-the-badge&logo=gmail" alt="himanshudubey2k23@gmail.com" height="30"/></a>
+
+</p>
+
+<br />
 <p align="left">
 </p>
 
